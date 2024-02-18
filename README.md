@@ -8,6 +8,7 @@ __LinkedIn__: https://www.linkedin.com/in/danielperez12/ <br />
 A TSQL analysis of some (presumably fictitious) sales data on Adidas product categories within the United States. We'll use the data to answer a few business tasks and provide recommendations.
 
 * [Business Tasks and EDA](https://github.com/danny814/Adidas-Sales-Analysis/blob/main/adidas_business_tasks_and_eda.md)
+* [Analysis-Based Recommendations](https://github.com/danny814/Adidas-Sales-Analysis/blob/main/adidas_recs.md)
 * [Adidas Dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
 ## Data Used
