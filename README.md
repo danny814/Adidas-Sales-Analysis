@@ -9,6 +9,7 @@ A TSQL analysis of some (presumably fictitious) sales data on Adidas product cat
 
 * [Business Tasks and EDA](https://github.com/danny814/Adidas-Sales-Analysis/blob/main/adidas_business_tasks_and_eda.md)
 * [Analysis-Based Recommendations](https://github.com/danny814/Adidas-Sales-Analysis/blob/main/adidas_recs.md)
+* [Tableau Retailer Sales Report](https://public.tableau.com/app/profile/danny.perez/viz/AdidasSalesReport_17083007003510/Dashboard1)
 * [Adidas Dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
 ## Data Used
